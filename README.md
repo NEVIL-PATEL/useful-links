@@ -1,4 +1,4 @@
-# useful-links
+# Helpful links
 <table>
     <tr><th>Name</th><th>Website Url</th><th>Description</th></tr>
     <tr><td>You engine</td><td><a href="https://www.you.com/" target="_parent" >you.com</a></td><td>YOU which is AI based search engine for search anything that you want.</td></tr>
@@ -48,3 +48,11 @@
 
 </table>
 
+# Movies,tvshows watch online & download links
+<table>
+    <tr><th>Name</th><th>Website Url</th><th>Description</th></tr>
+    <tr><td>Bot Movie HD</td><td><a href="https://botmoviehd.site/" target="_blank">botmoviehd.site</a></td><td>latest movies,series watch online and download</td></tr>
+    <tr><td>Fmovies </td><td><a href="https://www.fmovies.hn/home" target="_blank">fmovies.hn</a></td><td>latest movies and series watch online</td></tr>
+    <tr><td>hdhub4u </td><td><a href="https://hdhub4u.foo/" target="_blank">hdhub4u </a></td><td>movies and series in hd</td></tr>
+    <tr><td>Pogolinks </td><td><a href="http://pogolinks.guru/" target="_blank">pogolinks </a></td><td>movies and series</td></tr>
+</table>
