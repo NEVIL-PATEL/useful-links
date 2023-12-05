@@ -53,6 +53,8 @@
     <tr><td>FreshersWorld </td><td><a href="https://www.freshersworld.com/" target="_blank">freshersworld.com </a></td></tr>
     <tr><td>Angel </td><td><a href="https://angel.co/" target="_blank">angel.co </a></td></tr>
     <tr><td>Makeintern </td><td><a href="https://www.makeintern.com/" target="_blank">makeintern.com</a></td></tr>
+    <tr><td>National apprentice training scheme </td><td><a href="https://www.mhrdnats.gov.in/" target="_blank">mhrdnats.gov.in</a></td></tr>
+    <tr><td>Boards of apprentice training </td><td><a href="https://www.education.gov.in/boards-apprenticeship-training" target="_blank">education.gov.in/boards-apprenticeship-training</a></td></tr>
 
 
 </table>
